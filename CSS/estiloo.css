@@ -1,0 +1,149 @@
+*{margin: 0px;}
+.padre
+{
+    background-color: rgb(240, 0, 0);
+    padding: 20px;
+    width: 260px; /*se erenada el ancho y el alto a los demas */
+    border-radius: 70px;
+}
+.hijo
+{
+    background-color: rgb(88, 145, 3);
+    padding: 20px;
+    border-radius: 70px;
+}
+.nieto
+{
+    background-color: rgb(61, 188, 124);
+    padding: 20px;
+    border-radius: 70px;
+}
+.bisnieto
+{
+    background-color: rgb(95, 10, 222);
+    padding: 20px;
+    border-radius: 70px;
+}
+
+
+
+
+
+*
+{ 
+ margin: 0px;   
+}
+#fondo{
+    background-color: rgb(6, 2, 66);
+    border: 10px;
+    border-radius: 180px;
+    width: 800px;
+    height: 700px;
+}
+.nivel1
+{
+    background-color: rgb(129, 4, 122);
+    padding: 20px;
+    /*
+    - padding -
+    top : superior
+    butoon : inferior
+    right : izquierda
+    left : derecha
+    */
+    border: 10px;
+    
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+    border-color: rgb(113, 7, 52);
+    border-width: 60px ;
+    
+     /*redondear las esquinas de cajas */
+    
+   
+}
+.nivel2
+{
+    background-color: rgb(15, 46, 159);
+    padding: 20px;
+    margin: 10px; /*espacio entre cajas*/
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 80px;
+    border-color: rgb(18, 228, 99);
+ 
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+    
+}
+.nivel3
+{
+    background-color: rgb(84, 228, 59);
+    padding: 20px;
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 80px;
+    border-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+}
+.nivel4
+{
+    background-color: rgb(37, 172, 172);
+    padding: 20px;
+    margin: 10px;
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 80px;
+    border-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+}
+.nivel5
+{
+    background-color: rgb(36, 115, 167);
+    padding: 20px;
+    margin: 10px;
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 80px;
+    border-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+
+}
+.nivel6
+{
+    background-color: rgb(35, 139, 139);
+    padding: 20px;
+    margin: 10px;
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 80px;
+    border-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+    
+}
+.nivel7
+{
+    background-color: rgb(169, 198, 207);
+    padding: 20px;
+    margin: 10px;
+    margin-bottom:-50px;
+    margin-left: 10px;
+    border: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px;
+    
+    border-color: red;
+    
+}
